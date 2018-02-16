@@ -1,6 +1,6 @@
 # DigitalTrader
 
-QuestionGen is an automated high frequency cryptocurrency trading bot that connects to popular exchanges and takes advantage of price trends, dips, volatility, etc.
+DigitalTrader is an automated high frequency cryptocurrency trading bot that connects to popular exchanges and takes advantage of price trends, dips, volatility, etc.
 
 ## Setup
 In bot.py:
@@ -15,7 +15,7 @@ In bot.py:
 Use the following command in the project directory:<br>`python3 bot.py [currency] [OPTIONAL:offset]`<br>
 
 ## Screenshot
-Trading with XRP:
+Trading with XRP/BTC:
 ![screenshot](Figure_1.png)
 
 ## Credit
