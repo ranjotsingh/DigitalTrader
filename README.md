@@ -9,7 +9,7 @@ In bot.py:
 - Set `TRADE_AMOUNT` to the amount of coins that you wish to trade at a time
 - Set `CANCEL_SELL_TIME` to the number of server pings you wish to wait for before cancelling current sell order
 - Set `USE_HISTORICAL_DIRECTION` to `False` if you do not want to use a longer history of the price of the currency's trend; otherwise `True`
-- Set `DEFAULT_OFFSET` to the default difference in price change that you want the price to look for when trading
+- Set `DEFAULT_OFFSET` to the default price difference that you want the bot to look for and take advantage of when trading
 
 ## Usage
 Use the following command in the project directory:<br>`python3 bot.py [currency] [OPTIONAL:offset]`<br>
