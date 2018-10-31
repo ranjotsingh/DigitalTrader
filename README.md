@@ -1,6 +1,6 @@
 # DigitalTrader
 
-DigitalTrader is an automated high frequency cryptocurrency trading bot that connects to the Binance exchange and takes advantage of price trends, dips, volatility, etc.
+DigitalTrader is an automated and adjustable high frequency cryptocurrency trading bot that connects to the Binance exchange and takes advantage of price trends, dips, volatility, etc.
 
 ## Setup
 In bot.py:
