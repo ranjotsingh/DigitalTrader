@@ -4,6 +4,9 @@ from random import randint
 from datetime import timedelta
 from time import time
 
+############################################
+
+# SETTINGS
 ACTIVE = False
 TRADE_AMOUNT = 300
 DEFAULT_OFFSET = 0.00000005
@@ -12,8 +15,11 @@ COURAGEOUS_MULTIPLIER = 1
 USE_HISTORICAL_DIRECTION = False
 TRADE_PREFIX = 'GDAOUHD9989'
 
+# BINANCE INFORMATION
 API_KEY = ""
 SECRET = ""
+
+############################################
 
 deci = lambda x: '{0:.8f}'.format(x)
 
