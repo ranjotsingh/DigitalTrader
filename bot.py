@@ -29,7 +29,7 @@ if len(argv) < 2:
 	print('Default offset:', deci(DEFAULT_OFFSET))
 	exit()
 
-if API_KEY == "" or SECRET + "":
+if API_KEY == "" or SECRET == "":
 	print("Warning: API Key/Secret not set in", FILENAME)
 	ACTIVE = False
 else:
